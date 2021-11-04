@@ -11,5 +11,5 @@ en un futuro espero agregarle funcionalidad al boton CE y C directamente con el 
 
 Portuguese
 
-este é o meu trabalho final para o currículo do Projeto Odin, adicionar ícones e cores gradientes, 
+este é o meu trabalho final para o currículo do Projeto Odin, eu logrei adicionar ícones e cores gradientes, 
 no futuro espero adicionar funcionalidade aos botões CE e C diretamente com o teclado.
